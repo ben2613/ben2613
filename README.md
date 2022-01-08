@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi
+I am mainly putting some random scripts and test program here.
 
 <!--
 **ben2613/ben2613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
